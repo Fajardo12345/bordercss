@@ -1,0 +1,43 @@
+body
+{
+	background-image: url("demon slayer.webp");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+h1
+{
+	color: lightblue
+	font-size: 15pt
+	text-alighn: center;
+	font-family: monospace;	
+}
+h2
+{
+	color: lightblue;
+	font-size: 20pt;
+	text-align: center;
+	font-family: monospace;
+}
+.c1
+{
+    font-size:20px;
+    color: white;	
+    text-align:center;
+    border:10px solid black;
+ }   
+ .c2
+ {
+ 	font-size:20px;
+    color:white;	
+    text-align:center;
+    border:10px solid black;
+ }
+ .c3
+ {
+ 	font-size:20px;
+    color:white;	
+    text-align:center;
+    border:10px solid black;
+ }
+
